@@ -13,11 +13,11 @@
 - 👨‍🎓[4Geeks Academy](http://www.4geeksacademy.com) 
 - 💻**Full Stack Developer** 
 - 🌍 **Location:** Valencia (Spain)
-- 📫 **Contact me at:** [(agusrabadan85@gmail.com)]
+- 📫 **Contact me at:** (agusrabadan85@gmail.com)
 - 📑 [CV](https://app.enhancv.com/share/583cb343/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 - 🔤 [LinkedIn](www.linkedin.com/in/agustín-rabadán-martínez-a1a8411b5)
 
-  # Fighting with...
+  # My weapons:
 <div>
   <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" width="50" height="50">
   <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png"     width="50" height="50">

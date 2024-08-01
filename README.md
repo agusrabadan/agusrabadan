@@ -14,8 +14,8 @@
 - 💻**Full Stack Developer** 
 - 🌍 **Location:** Valencia (Spain)
 - 📫 **Contact me at:** [(agusrabadan85@gmail.com)]
-- 📑 **[CV]**(https://app.enhancv.com/share/583cb343/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
-- 🔤 **[LinkedIn]**(www.linkedin.com/in/agustín-rabadán-martínez-a1a8411b5)
+- 📑 [CV](https://app.enhancv.com/share/583cb343/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 🔤 [LinkedIn](www.linkedin.com/in/agustín-rabadán-martínez-a1a8411b5)
 
   # Fighting with...
 <div>

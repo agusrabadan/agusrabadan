@@ -3,15 +3,15 @@
 
 <h1 align="center"> Hi everybody! 👋 </h1>
 </div>
-<h3 align="center"> I´m a 4Geeks Academy student, at Full Stack Developer Bootcamp, Spain Fs Pt-65 and... :sparkling_heart: ... I love it </h3>
+<h3 align="center"> I´m a Full Stack Developer and... :sparkling_heart: ... I love it </h3>
 
 [<img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/LinkedIn-Symbole.png" width="100">](www.linkedin.com/in/agustin-rabadan-a1a8411b5)[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHMUb8U4VeW2y-RflH7U7Yp0tsx1hJv0PwQ&usqp=CAU" width="130">](https://www.youtube.com/channel/UC0DrWTb5VHlSy1ULkSY-uGw)
 
 
 <h4>  About me... </h4>
   
-- 👨‍🎓[4Geeks Academy](http://www.4geeksacademy.com) student
-- 💻**Full Stack Developer** in progress...
+- 👨‍🎓[4Geeks Academy](http://www.4geeksacademy.com) 
+- 💻**Full Stack Developer** 
 - 🌍 **Location:** Valencia (Spain)
 - 📫 **Contact me at:** [(agusrabadan85@gmail.com)]
 - 📑 **[CV]** (https://app.enhancv.com/share/583cb343/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
